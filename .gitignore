@@ -4,3 +4,6 @@ __pycache__/
 .ipynb_checkpoints
 temperature-plot.pdf
 the-verdict.txt
+\sms_spam_collection
+
+*.csv
