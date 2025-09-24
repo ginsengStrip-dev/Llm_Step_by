@@ -7,3 +7,4 @@ the-verdict.txt
 \sms_spam_collection
 
 *.csv
+review_classifier.pth
