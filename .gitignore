@@ -1,0 +1,6 @@
+loss-*
+model.pth
+__pycache__/
+.ipynb_checkpoints
+temperature-plot.pdf
+the-verdict.txt
